@@ -50,7 +50,7 @@ void solve(){
 
     if (distance== max_speed*max_speed){
 
-        cout << 2*max_speed -1 << "\n";
+        cout << 2*max_speed -1 << '\n';
     }
 
     else if (distance <= max_speed*max_speed + max_speed){
